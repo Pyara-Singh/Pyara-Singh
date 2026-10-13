@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on Improving Go backend performance & scalability<br>👯 I’m looking to collaborate on Open Source Go projects and Backend systems & APIs<br>🤝 I’m looking for help with Advanced system design in Go<br>🌱 I’m currently learning Data Structures & Algorithms<br>💬 Ask me about DSA & Competitive Programming<br>⚡ Fun fact - I love turning simple ideas into real-world projects 🚀<br>
+# 💫 About Me
+
+🔭 I’m currently building reliable backend systems and AI-powered developer tools.  
+👯 I’m open to collaborating on Go projects, backend systems, APIs, and open source.  
+🤝 I’m interested in learning more about scalable architecture and system design.  
+🌱 I’m strengthening my Data Structures and Algorithms fundamentals.  
+💬 Ask me about backend development, APIs, DSA, or practical AI projects.  
+⚡ Fun fact: I enjoy turning simple ideas into useful real-world products 🚀
 
 
 ## 🌐 Socials:
